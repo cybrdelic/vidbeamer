@@ -1,0 +1,5 @@
+{
+  "name": "Beam",
+  "description": "Send videos to your phone, instantly. No cables, no cloud storage limits, no messaging yourself. Just drop a video and scan.",
+  "requestFramePermissions": []
+}
